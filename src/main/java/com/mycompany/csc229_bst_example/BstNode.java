@@ -37,6 +37,15 @@ public class BstNode {
     public Integer getData() {
         return data;
     }
+    
+
+    
+    
+
+    }
+
+    
+    
 
 
-}
+
